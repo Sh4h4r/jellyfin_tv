@@ -72,4 +72,4 @@ http://luong.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 http://luong.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 tvg-id="GAORASPORTS.jp",tvg-logo="https://www.lacrosse.gr.jp/img/cms/14404a0374dc19095e57b32ff69ebfd9.jpg", GAORA SPORTS
-https://stream01.willfonk.com/live_playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
